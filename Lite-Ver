@@ -167,20 +167,22 @@
   "npcDialogueOverlayFeature.npcDialogueOverlay.textShadow": "outline",
   "npcDialogueOverlayFeature.userEnabled": true,
   "objectivesOverlayFeature.dailyObjectiveOverlay.disableObjectiveTrackingOnScoreboard": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.enableProgressBar": false,
   "objectivesOverlayFeature.dailyObjectiveOverlay.hideOnInactivity": true,
   "objectivesOverlayFeature.dailyObjectiveOverlay.horizontalAlignmentOverride": "right",
   "objectivesOverlayFeature.dailyObjectiveOverlay.position": {
-    "verticalOffset": -9.0,
+    "verticalOffset": -26.5,
     "horizontalOffset": 30.5,
     "verticalAlignment": "bottom",
     "horizontalAlignment": "center",
-    "anchorSection": "bottomRight"
+    "anchorSection": "middleRight"
   },
   "objectivesOverlayFeature.dailyObjectiveOverlay.size": {
     "width": 150.0,
     "height": 26.5
   },
   "objectivesOverlayFeature.dailyObjectiveOverlay.userEnabled": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.verticalAlignmentOverride": "middle",
   "objectivesOverlayFeature.guildObjectiveOverlay.disableObjectiveTrackingOnScoreboard": true,
   "objectivesOverlayFeature.guildObjectiveOverlay.hideOnInactivity": true,
   "objectivesOverlayFeature.guildObjectiveOverlay.userEnabled": false,
@@ -249,6 +251,11 @@
     "customBankQuickJumpsBankName"
   ],
   "overlayGroups": {
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": [],
     "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
       1,
       2,
@@ -257,11 +264,6 @@
       5,
       6,
       7
-    ],
-    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
-    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
-    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
-    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
-    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": []
+    ]
   }
 }
