@@ -1,0 +1,301 @@
+{
+  "arrowShieldTrackerOverlayFeature.userEnabled": false,
+  "chatTabsFeature.chatTabs": [
+    {
+      "name": "Story",
+      "consuming": false,
+      "autoCommand": "",
+      "filteredTypes": [
+        "info"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "a",
+      "consuming": false,
+      "autoCommand": "",
+      "filteredTypes": [
+        "global",
+        "gameMessage",
+        "local",
+        "guild",
+        "private",
+        "clientside",
+        "shout",
+        "pets",
+        "party",
+        "info",
+        "npc"
+      ],
+      "customRegexString": null
+    }
+  ],
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.position": {
+    "verticalOffset": -3.0,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.userEnabled": false,
+  "combatExperienceOverlayFeature.userEnabled": false,
+  "contentTrackerOverlayFeature.contentTrackerOverlay.horizontalAlignmentOverride": "center",
+  "contentTrackerOverlayFeature.contentTrackerOverlay.position": {
+    "verticalOffset": -19.0,
+    "horizontalOffset": -0.5,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "topMiddle"
+  },
+  "contentTrackerOverlayFeature.contentTrackerOverlay.size": {
+    "width": 360.0,
+    "height": 50.0
+  },
+  "contentTrackerOverlayFeature.contentTrackerOverlay.verticalAlignmentOverride": "top",
+  "contentTrackerOverlayFeature.userEnabled": true,
+  "customBarsOverlayFeature.userEnabled": false,
+  "customPlayerListOverlayFeature.customPlayerListOverlay.userEnabled": true,
+  "customPlayerListOverlayFeature.userEnabled": false,
+  "gameBarsOverlayFeature.awakenedProgressBarOverlay.horizontalAlignmentOverride": "center",
+  "gameBarsOverlayFeature.awakenedProgressBarOverlay.position": {
+    "verticalOffset": -5.0,
+    "horizontalOffset": -31.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.awakenedProgressBarOverlay.verticalAlignmentOverride": "bottom",
+  "gameBarsOverlayFeature.bloodPoolBarOverlay.horizontalAlignmentOverride": "center",
+  "gameBarsOverlayFeature.bloodPoolBarOverlay.position": {
+    "verticalOffset": -5.5,
+    "horizontalOffset": 29.5,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.corruptedBarOverlay.horizontalAlignmentOverride": "center",
+  "gameBarsOverlayFeature.corruptedBarOverlay.position": {
+    "verticalOffset": -5.0,
+    "horizontalOffset": -31.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.corruptedBarOverlay.verticalAlignmentOverride": "bottom",
+  "gameBarsOverlayFeature.focusBarOverlay.horizontalAlignmentOverride": "center",
+  "gameBarsOverlayFeature.focusBarOverlay.position": {
+    "verticalOffset": -6.5,
+    "horizontalOffset": 30.5,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.healthBarOverlay.healthTexture": "a",
+  "gameBarsOverlayFeature.healthBarOverlay.horizontalAlignmentOverride": "left",
+  "gameBarsOverlayFeature.healthBarOverlay.position": {
+    "verticalOffset": 2.0,
+    "horizontalOffset": -25.5,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "center",
+    "anchorSection": "topLeft"
+  },
+  "gameBarsOverlayFeature.healthBarOverlay.size": {
+    "width": 131.0,
+    "height": 24.0
+  },
+  "gameBarsOverlayFeature.manaBankBarOverlay.horizontalAlignmentOverride": "center",
+  "gameBarsOverlayFeature.manaBankBarOverlay.position": {
+    "verticalOffset": -6.5,
+    "horizontalOffset": 30.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.manaBankBarOverlay.verticalAlignmentOverride": "bottom",
+  "gameBarsOverlayFeature.manaBarOverlay.flip": false,
+  "gameBarsOverlayFeature.manaBarOverlay.position": {
+    "verticalOffset": -6.0,
+    "horizontalOffset": 23.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "topLeft"
+  },
+  "gameBarsOverlayFeature.manaBarOverlay.shouldDisplayOriginal": false,
+  "gameBarsOverlayFeature.manaBarOverlay.textShadow": "outline",
+  "gameBarsOverlayFeature.userEnabled": true,
+  "gameNotificationOverlayFeature.gameNotificationOverlay.horizontalAlignmentOverride": "left",
+  "gameNotificationOverlayFeature.gameNotificationOverlay.invertGrowth": false,
+  "gameNotificationOverlayFeature.gameNotificationOverlay.position": {
+    "verticalOffset": -1.0,
+    "horizontalOffset": 22.5,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomLeft"
+  },
+  "gameNotificationOverlayFeature.gameNotificationOverlay.size": {
+    "width": 250.0,
+    "height": 16.0
+  },
+  "gameNotificationOverlayFeature.gameNotificationOverlay.userEnabled": true,
+  "gameNotificationOverlayFeature.gameNotificationOverlay.verticalAlignmentOverride": "bottom",
+  "gameNotificationOverlayFeature.userEnabled": true,
+  "gammabrightFeature.gammabrightEnabled": false,
+  "horseMountFeature.playWhistle": false,
+  "infoBoxFeature.userEnabled": true,
+  "lootrunOverlaysFeature.userEnabled": false,
+  "messageFilterFeature.hideLevelUp": true,
+  "messageFilterFeature.hidePartyFinder": true,
+  "messageFilterFeature.hideWelcome": true,
+  "minimapFeature.coordinateOverlay1.position": {
+    "verticalOffset": -8.0,
+    "horizontalOffset": 9.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "minimapFeature.minimapOverlay.hideWhenUnmapped": "minimapAndCoords",
+  "minimapFeature.minimapOverlay.horizontalAlignmentOverride": "center",
+  "minimapFeature.minimapOverlay.maskType": "rectangular",
+  "minimapFeature.minimapOverlay.poiScale": 0.4,
+  "minimapFeature.minimapOverlay.pointerScale": 0.75,
+  "minimapFeature.minimapOverlay.position": {
+    "verticalOffset": -6.75,
+    "horizontalOffset": -13.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "minimapFeature.minimapOverlay.scale": 1.4,
+  "minimapFeature.minimapOverlay.size": {
+    "width": 85.0,
+    "height": 84.0
+  },
+  "minimapFeature.territoryOverlay1.fontScale": 0.667,
+  "minimapFeature.territoryOverlay1.position": {
+    "verticalOffset": 2.0,
+    "horizontalOffset": 9.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "minimapFeature.territoryOverlay1.userEnabled": true,
+  "minimapFeature.userEnabled": false,
+  "mobTotemTimerOverlayFeature.userEnabled": false,
+  "npcDialogueOverlayFeature.npcDialogueOverlay.position": {
+    "verticalOffset": 8.0,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "npcDialogueOverlayFeature.npcDialogueOverlay.textShadow": "outline",
+  "npcDialogueOverlayFeature.userEnabled": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.disableObjectiveTrackingOnScoreboard": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.enableProgressBar": false,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.hideOnInactivity": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.horizontalAlignmentOverride": "center",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.position": {
+    "verticalOffset": -11.0,
+    "horizontalOffset": 0.5,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "middleRight"
+  },
+  "objectivesOverlayFeature.dailyObjectiveOverlay.size": {
+    "width": 121.0,
+    "height": 100.0
+  },
+  "objectivesOverlayFeature.dailyObjectiveOverlay.userEnabled": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.verticalAlignmentOverride": "top",
+  "objectivesOverlayFeature.guildObjectiveOverlay.hideOnInactivity": true,
+  "objectivesOverlayFeature.guildObjectiveOverlay.horizontalAlignmentOverride": "right",
+  "objectivesOverlayFeature.guildObjectiveOverlay.userEnabled": false,
+  "objectivesOverlayFeature.userEnabled": true,
+  "partyMembersOverlayFeature.partyMembersOverlay.disablePartyMembersOnScoreboard": true,
+  "partyMembersOverlayFeature.partyMembersOverlay.position": {
+    "verticalOffset": 2.0,
+    "horizontalOffset": 5.0,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "center",
+    "anchorSection": "middleLeft"
+  },
+  "partyMembersOverlayFeature.userEnabled": true,
+  "playerArmorHidingFeature.userEnabled": true,
+  "playerGhostTransparencyFeature.playerGhostTranslucenceLevel": 0.25,
+  "powderSpecialBarOverlayFeature.userEnabled": false,
+  "replaceRecipeBookFeature.userEnabled": true,
+  "shamanMaskOverlayFeature.userEnabled": false,
+  "shamanTotemTimerOverlayFeature.userEnabled": false,
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.position": {
+    "verticalOffset": -22.0,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.verticalAlignmentOverride": "middle",
+  "spellCastMessageOverlayFeature.userEnabled": true,
+  "statusEffectsOverlayFeature.statusEffectsOverlay.horizontalAlignmentOverride": "right",
+  "statusEffectsOverlayFeature.statusEffectsOverlay.position": {
+    "verticalOffset": -5.0,
+    "horizontalOffset": -1.75,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomRight"
+  },
+  "statusEffectsOverlayFeature.statusEffectsOverlay.size": {
+    "width": 224.5,
+    "height": 14.0
+  },
+  "statusEffectsOverlayFeature.statusEffectsOverlay.stackingBehaviour": "sum",
+  "statusEffectsOverlayFeature.statusEffectsOverlay.verticalAlignmentOverride": "bottom",
+  "statusEffectsOverlayFeature.userEnabled": true,
+  "stopwatchFeature.userEnabled": false,
+  "territoryAttackTimerOverlayFeature.userEnabled": false,
+  "tokenBarsOverlayFeature.userEnabled": false,
+  "towerAuraTimerOverlayFeature.userEnabled": false,
+  "worldWaypointDistanceFeature.bottomBoundingDistance": 40.0,
+  "infoBoxFeature.infoBoxOverlay1.content": "{if_str(gt(xpm_raw;0);concat(\"\u00262[\u0026a\";xp;\"/\";xp_req;\" \u00266(\";str(round(xp_pct;1));\"\u00266%)\u00262]\");\"\")}",
+  "infoBoxFeature.infoBoxOverlay1.position": {
+    "verticalOffset": 0.0,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "infoBoxFeature.infoBoxOverlay2.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay3.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay4.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay5.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay6.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay7.userEnabled": false,
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName"
+  ],
+  "overlayGroups": {
+    "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": []
+  }
+}
